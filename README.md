@@ -3,7 +3,6 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&labelColor=24292e&color=24292e&label=GitHub%20STARS&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Foreopie&style=flat-square)](https://github.com/oreopie)
 
 - 🍻 Ph.D. at 🇸🇬 [NUS](http://www.nus.edu.sg), also trained at 🇨🇳 [SUSTech](https://www.sustech.edu.cn/en/), _in Hydrology_
-- 🔭 I am looking for an academic job (expected to graduate in Apr, 2021)
 - ⚡ Python / R / MATLAB / C / C++
 - ⛱ Like frontend design as well (JavaScript)
 - 🍭 **Fields of Interest**: Interdisciplinary applications of <u>machine learning</u> / <u>computer vision</u> / <u>interpretable AI</u> in hydrology and climate-related research
