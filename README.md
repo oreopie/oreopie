@@ -1,9 +1,10 @@
-### Yoo-hoo, I'm Sai-kit Chiang (an easy pronunciation of my name _Shijie Jiang_) 👋
+### Yoo-hoo, I'm Shijie Jiang. 👋
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&labelColor=24292e&color=24292e&label=GitHub%20STARS&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Foreopie&style=flat-square)](https://github.com/oreopie)
 
 ## About me 😄 
-- 🍻 Ph.D. at 🇸🇬 [NUS](http://www.nus.edu.sg), also trained at 🇨🇳 [SUSTech](https://www.sustech.edu.cn/en/), _in Hydrology_
+- 🍻 Postdoc researcher at 🇩🇪 [UFZ (Helmholtz Centre for Environmental Research)](https://www.ufz.de/index.php?en=33573).
+- 👨🏻‍🎓 Ph.D. at 🇸🇬 [NUS](http://www.nus.edu.sg), also trained at 🇨🇳 [SUSTech](https://www.sustech.edu.cn/en/), _in Hydrology_
 - ⚡ Python / R / MATLAB / C / C++
 - ⛱ Like frontend design as well (JavaScript)
 - 🍭 **Fields of Interest**: Interdisciplinary applications of <u>machine learning</u> / <u>computer vision</u> / <u>interpretable AI</u> in hydrology and climate-related research
