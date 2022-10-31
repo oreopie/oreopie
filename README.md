@@ -10,7 +10,7 @@
 - 🍭 **Fields of Interest**: Interdisciplinary applications of <u>machine learning</u> / <u>computer vision</u> / <u>interpretable AI</u> in hydrology and climate-related research
 
 ## Get in touch 📫 
-- Personal site: https://oreopie.github.io
+- Personal site: https://sjiang.cc
 
 <!--
 **oreopie/oreopie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
