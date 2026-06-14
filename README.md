@@ -14,5 +14,28 @@
   - 🌪 Predictability & attribution of climate extremes  
   - 🌡 Climate change impacts & human influences  
 
+## Models & tools 🛠️
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/hydroshub/adelm">
+<img src="https://github.com/hydroshub/adelm/blob/main/adelm-logo.png?raw=true" height="90">
+</a><br><br>
+
+🌿 <b>ADELM</b><br>
+Differentiable land model for water–energy–carbon interactions <a href="https://adelm.org">adelm.org</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/hydroshub/moredo">
+<img src="https://github.com/hydroshub/moredo/blob/main/moredo_logo.jpg?raw=true" height="90">
+</a><br><br>
+
+🌱 <b>MOREDO</b><br>
+Multi-Observation Root-zone Ecohydrology Diagnostic Model for multi-variable ecohydrology.
+</td>
+</tr>
+</table>
+
 ## Find me & my group 🌐  
 👉 [Machine Learning for Hydrological and Earth Systems](https://www.bgc-jena.mpg.de/en/bgi/ml4hes)  
