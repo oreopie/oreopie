@@ -23,7 +23,8 @@
 </a><br><br>
 
 🌿 <b>ADELM</b><br>
-Differentiable land model for water–energy–carbon interactions <a href="https://adelm.org">adelm.org</a>
+<b>A</b>daptive <b>D</b>ifferentiable <b>E</b>cohydrological <b>L</b>and <b>M</b>odel for water, energy, and carbon interactions<br> <a href="https://adelm.org">adelm.org</a> · <a href="https://github.com/hydroshub/adelm">GitHub</a>
+
 </td>
 
 <td align="center" width="50%">
@@ -32,7 +33,8 @@ Differentiable land model for water–energy–carbon interactions <a href="http
 </a><br><br>
 
 🌱 <b>MOREDO</b><br>
-Multi-Observation Root-zone Ecohydrology Diagnostic Model for multi-variable ecohydrology.
+<b>M</b>ulti-<b>O</b>bservation <b>R</b>oot-zone <b>E</b>cohydrology <b>D</b>iagn<b>O</b>stic model for multi-variable ecohydrology<br> <a href="https://github.com/hydroshub/moredo">GitHub</a>
+
 </td>
 </tr>
 </table>
